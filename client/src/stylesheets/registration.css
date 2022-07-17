@@ -1,0 +1,138 @@
+.container-registration{
+    padding-bottom: 110px;
+}
+
+.input-upload-file{
+    display: none;
+}
+
+.label-registration-text{
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.input-box-registration{
+    width: 100%;
+    height: 42px;
+    border: 1px solid #3d3d3d;
+    padding: 10px 10px;
+    font-size: 16px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+}
+
+.registrate-final-button{
+    border-radius: 25px;
+    letter-spacing: 0.4px;
+    padding: 10px 75px;
+    color: white;
+    font-weight: 700;
+    border: none;
+    font-size: 16px;
+    margin-top: 30px;
+    transition: 0.5s;
+    background-size: 200% auto;
+    box-shadow: 0 3px 17px rgba(255, 126, 57, 0.51);
+    display: block;
+    background-image: linear-gradient(to right, #eb4f33 0%, #ff7130 51%, #eb5833 100%)
+}
+
+.registrate-final-button:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+input[type=checkbox] {
+    position: relative;
+    cursor: pointer;
+}
+
+.form-check-input {
+    top: -2px;
+}
+
+.form-check-input {
+    position: absolute;
+    margin-top: .3rem;
+    margin-left: -1.25rem;
+}
+
+.form-check-label {
+    margin-left: 15px!important;
+}
+
+input[type=checkbox]:before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 0;
+    left: 0;
+    border: 1.5px solid #212529;
+    border-radius: 3px;
+    background-color: #fff;
+}
+
+input[type=checkbox]:checked:after {
+    content: "";
+    display: block;
+    width: 5px;
+    height: 10px;
+    border: solid #000;
+    border-width: 0 2px 2px 0;
+    -webkit-transform: rotate(
+            45deg
+    );
+    transform: rotate(
+            45deg
+    );
+    position: absolute;
+    top: 3px;
+    left: 7px;
+}
+
+.link-data-registration{
+    color: black;
+    font-weight: 500;
+}
+
+.opportunity-registartion{
+    font-size: 14px;
+}
+
+.label-resume-registration-text{
+    margin-bottom: 0;
+    font-weight: 600;
+}
+
+.resume-label-div{
+    margin-bottom: .5rem;
+}
+
+.landing-registration-button-resume, .landing-registration-button-resume-mobile {
+    background-color: #fff;
+    font-family: 'Montserrat', sans-serif !important;
+    text-transform: none !important;
+    letter-spacing: 0 !important;
+    border: 1.5px solid #212529 !important;
+    border-radius: 8px !important;
+    color: #212529;
+    font-weight: 600 !important;
+    font-size: 14px !important;
+    padding: 6px 30px !important;
+    text-align: left;
+    text-decoration: none;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px !important;
+}
+
+.fi-rr-cloud-upload.registration{
+    font-size: 20px;
+    margin-right: 6px;
+}
+
+.landing-registration-button-resume {
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2ea2662.chunk.css",
+    "main.js": "/static/js/main.2523713c.chunk.js",
+    "main.js.map": "/static/js/main.2523713c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.46b7f7c6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.46b7f7c6.js.map",
+    "static/css/2.27175f2b.chunk.css": "/static/css/2.27175f2b.chunk.css",
+    "static/js/2.c6bf0ba8.chunk.js": "/static/js/2.c6bf0ba8.chunk.js",
+    "static/js/2.c6bf0ba8.chunk.js.map": "/static/js/2.c6bf0ba8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.27175f2b.chunk.css.map": "/static/css/2.27175f2b.chunk.css.map",
+    "static/css/main.a2ea2662.chunk.css.map": "/static/css/main.a2ea2662.chunk.css.map",
+    "static/js/2.c6bf0ba8.chunk.js.LICENSE.txt": "/static/js/2.c6bf0ba8.chunk.js.LICENSE.txt",
+    "static/media/organizators.css": "/static/media/naukma.cf41d4a5.png",
+    "static/media/logotypes.css": "/static/media/roland.3be18801.png",
+    "static/media/greetings.css": "/static/media/background1.86892b35.png",
+    "static/media/education-1.fbc81349.png": "/static/media/education-1.fbc81349.png",
+    "static/media/education-2.6e0a05ca.png": "/static/media/education-2.6e0a05ca.png",
+    "static/media/education-3.5af60ae4.png": "/static/media/education-3.5af60ae4.png",
+    "static/media/x.75714c9e.svg": "/static/media/x.75714c9e.svg",
+    "static/media/x_black.192b478b.svg": "/static/media/x_black.192b478b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46b7f7c6.js",
+    "static/css/2.27175f2b.chunk.css",
+    "static/js/2.c6bf0ba8.chunk.js",
+    "static/css/main.a2ea2662.chunk.css",
+    "static/js/main.2523713c.chunk.js"
+  ]
+}

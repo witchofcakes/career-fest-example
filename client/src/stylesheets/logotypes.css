@@ -1,0 +1,837 @@
+#deloitte{
+    background-image: url("../images/logotypes/companies/deloitte.png");
+    background-size: 90%;
+}
+
+#deloitte-activity{
+    background-image: url("../images/logotypes/companies/deloitte.png");
+    background-size: 85%;
+}
+
+#deloitte-lecture {
+    background-image: url("../images/logotypes/companies/deloitte.png");
+    background-size: 100%;
+}
+
+#jooble{
+    background-image: url("../images/logotypes/companies/jooble.png");
+    background-size: 95%;
+}
+
+#jooble-activity{
+    background-image: url("../images/logotypes/companies/jooble.png");
+    background-size: 75%;
+}
+
+#jooble-lecture {
+    background-image: url("../images/logotypes/companies/jooble.png");
+    background-size: 80%;
+}
+
+#ancor{
+    background-image: url("../images/logotypes/companies/ancor.png");
+    background-size: 83%;
+}
+
+#lcf{
+    background-image: url("../images/logotypes/companies/lcf.png");
+    background-size: 80%;
+}
+
+#awellum{
+    background-image: url("../images/logotypes/companies/awellum.png");
+    background-size: 105%;
+}
+
+#fozzy{
+    background-image: url("../images/logotypes/companies/fozzy.png");
+    background-size: 60%;
+}
+
+
+
+#ey {
+    background-image: url("../images/logotypes/companies/ey.png");
+    background-size: 65%;
+}
+
+#ey-activity {
+    background-image: url("../images/logotypes/companies/ey.png");
+    background-size: 45%;
+}
+
+#aegis {
+    background-image: url("../images/logotypes/companies/aegis.png");
+    background-size: 80%;
+}
+
+#aegis-activity {
+    background-image: url("../images/logotypes/companies/aegis.png");
+    background-size: 45%;
+}
+
+#aegis-lecture {
+    background-image: url("../images/logotypes/companies/aegis.png");
+    background-size: 55%;
+}
+
+#genesis {
+    background-image: url("../images/logotypes/companies/genesis.png");
+    background-size: 110%;
+}
+
+#genesis-lecture {
+    background-image: url("../images/logotypes/companies/genesis-lecture.png");
+}
+
+#genesis-activity {
+    background-image: url("../images/logotypes/companies/genesis.png");
+    background-size: 90%;
+}
+
+#innoware {
+    background-image: url("../images/logotypes/companies/innoware.png");
+    background-size: 70%;
+}
+
+#innoware-activity {
+    background-image: url("../images/logotypes/companies/innoware.png");
+    background-size: 55%;
+}
+
+#jti {
+    background-image: url("../images/logotypes/companies/jti.png");
+    background-size: 90%;
+}
+
+#jti-activity {
+    background-image: url("../images/logotypes/companies/jti.png");
+    background-size: 65%;
+}
+
+#jti-lecture {
+    background-image: url("../images/logotypes/companies/jti.png");
+    background-size: 85%;
+}
+
+
+#pepsico {
+    background-image: url("../images/logotypes/companies/pepsico.png");
+    background-size: 105%;
+}
+
+#pepsico-activity {
+    background-image: url("../images/logotypes/companies/pepsico.png");
+    background-size: 95%;
+}
+
+#pepsico-lecture {
+    background-image: url("../images/logotypes/companies/pepsico.png");
+    background-size: 105%;
+}
+
+#intertop {
+    background-image: url("../images/logotypes/companies/intertop.png");
+    background-size: 100%;
+}
+
+#intertop-activity {
+    background-image: url("../images/logotypes/companies/intertop.png");
+    background-size: 98%;
+}
+
+#bakertilly {
+    background-image: url("../images/logotypes/companies/bakertilly.png");
+    background-size: 100%;
+}
+
+#bakertilly-activity {
+    background-image: url("../images/logotypes/companies/bakertilly.png");
+    background-size: 85%;
+}
+
+#bakertilly-lecture {
+    background-image: url("../images/logotypes/companies/bakertilly.png");
+    background-size: 95%;
+}
+
+
+
+#roland {
+    background-image: url("../images/logotypes/companies/roland.png");
+    background-size: 95%;
+}
+
+#roland-activity {
+    background-image: url("../images/logotypes/companies/roland.png");
+    background-size: 70%;
+}
+
+
+
+#bat {
+    background-image: url("../images/logotypes/companies/bat.png");
+    background-size: 130%;
+}
+
+#bat-activity {
+    background-image: url("../images/logotypes/companies/bat.png");
+    background-size: 115%;
+}
+
+#bat-lecture {
+    background-image: url("../images/logotypes/companies/bat.png");
+    background-size: 125%;
+}
+
+#bat-activity {
+    background-image: url("../images/logotypes/companies/bat.png");
+    background-size: 115%;
+}
+
+#bat-lecture {
+    background-image: url("../images/logotypes/companies/bat.png");
+    background-size: 125%;
+}
+
+#pwc {
+    background-image: url("../images/logotypes/companies/pwc.png");
+    background-size: 120%;
+}
+
+/*========================================*/
+
+.margin-top-5 {
+    margin-top: 5px;
+}
+
+.margin-top-10 {
+    margin-top: 10px;
+}
+
+.margin-top-15 {
+    margin-top: 15px;
+}
+
+.margin-top-20 {
+    margin-top: 20px;
+}
+
+.margin-top-30 {
+    margin-top: 20px;
+}
+
+.margin-top-40 {
+    margin-top: 40px;
+}
+
+.margin-top-50 {
+    margin-top: 50px;
+}
+
+.margin-top-60 {
+    margin-top: 60px;
+}
+
+.margin-top-70 {
+    margin-top: 70px
+}
+
+.margin-top-80 {
+    margin-top: 80px
+}
+
+.margin-top-100 {
+    margin-top: 100px;
+}
+
+.margin-top-120 {
+    margin-top: 120px;
+}
+
+.margin-top-140 {
+    margin-top: 140px;
+}
+
+.margin-top-160 {
+    margin-top: 160px;
+}
+
+.margin-top-200 {
+    margin-top: 200px;
+}
+
+.margin-bottom-10 {
+    margin-bottom: 10px;
+}
+
+.margin-bottom-15 {
+    margin-bottom: 15px;
+}
+
+.margin-bottom-20 {
+    margin-bottom: 20px;
+}
+
+.margin-bottom-30 {
+    margin-bottom: 30px;
+}
+
+.margin-bottom-40 {
+    margin-bottom: 40px;
+}
+
+.margin-bottom-80 {
+    margin-bottom: 80px;
+}
+
+.margin-bottom--40 {
+    margin-bottom: -40px;
+}
+
+.margin-bottom--80 {
+    margin-bottom: -80px;
+}
+
+.margin-right-10 {
+    margin-right: 10px;
+}
+
+.margin-right-20 {
+    margin-right: 20px;
+}
+
+.margin-right-40 {
+    margin-right: 40px;
+}
+
+.margin-right-60 {
+    margin-right: 60px;
+}
+
+.margin-right-80 {
+    margin-right: 80px;
+}
+
+.margin-top--40px {
+    margin-top: -40px;
+}
+
+.margin-top--60px {
+    margin-top: -60px;
+}
+
+.margin-top--80px {
+    margin-top: -80px;
+}
+
+/*==============================*/
+
+
+.popup-overlay{
+    animation-name: modalFade;
+    animation-duration: .3s;
+    overflow-y: auto !important;
+    background: rgba(0, 0, 0, 0.87) !important;
+}
+
+@keyframes modalFade {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+.description-company{
+    font-size: 16px;
+    font-weight: 500;
+    color: #212529;
+    margin-bottom: 0 !important;
+}
+
+.company-name-popup {
+    text-align: center;
+    font-size: 35px;
+    font-weight: 600;
+    color: #212529;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+
+.react-tabs__tab--selected {
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    box-shadow: none !important;
+    color: #212529 !important;
+    font-weight: 700 !important;
+    /*border-bottom: 2px solid #212529 !important;*/
+}
+
+.react-tabs__tab--selected:before{
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    bottom: 0;
+    content: '';
+    display: block;
+    height: 3px;
+    left: 0;
+    /*margin: 0 8px;*/
+    position: absolute;
+    right: 0;
+    background: #212529;
+}
+
+.react-tabs__tab-list {
+    border-bottom: 1.5px solid #ebebec !important;
+    overflow-x: auto;
+    /* overflow-y: hidden; */
+    white-space: nowrap;
+}
+
+.react-tabs__tab-list::-webkit-scrollbar {
+    display: none !important;
+}
+
+.react-tabs__tab {
+    color: #212529 !important;
+    padding: 16px 0px !important;
+    margin-right: 45px;
+    font-size: 16px;
+    font-weight: 500;
+    bottom: 0 !important;
+}
+
+.react-tabs__tab-panel{
+    min-height: 350px !important;
+}
+
+.company-tabs{
+    margin-top: 40px;
+}
+
+.company-popup{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    top: 60px;
+    right: 60px;
+    bottom: 60px;
+    left: 60px;
+    z-index: 2;
+}
+
+#company-wrapper-disabled {
+    position: relative;
+     background: #f6f6f6;
+    width: 100%;
+    height: 140px;
+    border-radius: 5px;
+}
+
+.company-wrapper-popup {
+    position: absolute;
+    background: #f6f6f6;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+
+    left: 50%;
+    top: -87px;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+
+.close-icon:hover, .button-block-company:hover{
+    cursor: pointer;
+}
+
+/*====================================*/
+
+.padding-bottom-20 {
+    padding-bottom: 20px;
+}
+
+.padding-bottom-30 {
+    padding-bottom: 30px;
+}
+
+.padding-bottom-60 {
+    padding-bottom: 60px;
+}
+
+/*=====================================*/
+
+@media (min-width: 993px) {
+    .react-tabs__tab-list {
+        margin: 0 0 30px !important;
+    }
+
+    .justify-content-center-desktop {
+        display: flex;
+        justify-content: center;
+    }
+
+    .close {
+        box-sizing: border-box;
+        cursor: pointer;
+        padding: 5px;
+        position: fixed;
+        right: 35px;
+        top: 20px;
+    }
+
+    /*.virtual-stand-button{*/
+    /*    position: absolute;*/
+    /*    bottom: 0;*/
+    /*}*/
+    .margin-company-left {
+        margin-left: 40px;
+    }
+
+    .popup-content {
+        width: 80% !important;
+        border-radius: 5px !important;
+        border: 1px solid #ebebec !important;
+        padding: 40px 40px 60px 40px !important;
+        top: 65px !important;
+        background: white;
+        /*margin-bottom: 100px !important;*/
+    }
+
+    .subtitle-small-block {
+        height: 45px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .row-mobile {
+        display: none;
+    }
+
+    .no-gutters-desktop {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+}
+
+@media (min-width: 0) and (max-width: 500px) {
+
+    .description-company {
+        font-size: 16px !important;
+    }
+
+    .react-tabs__tab {
+        margin-right: 30px !important;
+        font-size: 14px !important;
+    }
+
+}
+
+@media (min-width: 0) and (max-width: 992px) {
+
+    .margin-genesis-mobile {
+        margin-bottom: 40px;
+    }
+
+    .button-lectures, .link-button {
+        width: 100% !important;
+    }
+
+    .button-lectures {
+        padding: 15px 60px !important;
+        margin-top: 30px !important;
+    }
+
+    .background-white-activities {
+        padding-top: 5px !important;
+        padding-bottom: 60px !important;
+    }
+
+    .gift-umovy {
+        font-size: 18px !important;
+        margin-top: 20px !important;
+    }
+
+    .react-tabs__tab-list {
+        margin: 0 0 20px !important;
+    }
+
+    .margin-top-mobile-video {
+        margin-top: 25px;
+    }
+
+    .thank-you,
+    .thank-you-genesis {
+        color: #212529;
+        font-size: 16px !important;
+    }
+
+    .description-margin, .gift-li-description {
+        font-size: 16px !important;
+    }
+
+    .title-gift-popup {
+        line-height: 1.23 !important;
+        font-size: 21px !important;
+    }
+
+    .gift-question {
+        font-size: 18px !important;
+    }
+
+    .close {
+        box-sizing: border-box;
+        cursor: pointer;
+        padding: 5px;
+        position: absolute;
+        right: 10px;
+        top: 3px;
+    }
+
+    .close-icon {
+        width: 25px !important;
+        height: 25px !important;
+    }
+
+    .company-wrapper-popup {
+        top: 20px !important;
+        height: 115px !important;
+        width: 115px !important;
+    }
+
+    .company-name-popup {
+        margin-top: 120px !important;
+        margin-bottom: 0 !important;
+    }
+
+    .label-form-genesis {
+        font-size: 18px;
+    }
+
+    .company-name-popup {
+        font-size: 26px !important;
+    }
+
+    .margin-bottom-activities-block {
+        margin-bottom: 40px !important;
+    }
+
+    .Countdown-days-value, .Countdown-hours-value, .Countdown-minutes-value, .Countdown-seconds-value {
+        font-size: 24px !important;
+    }
+
+    .countdown-banner-text {
+        font-size: 16px !important;
+        text-align: left !important;
+        margin-top: 15px !important;
+        margin-bottom: 10px !important;
+    }
+
+    .banner-time {
+        font-size: 18px !important;
+        text-align: left !important;
+        margin-top: 15px !important;
+        margin-bottom: 10px !important;
+    }
+
+    .countdown-timer {
+        text-align: left !important;
+    }
+
+    .background-white-stand {
+        padding-top: 20px !important;
+    }
+
+    .names-count-row {
+        justify-content: flex-start !important;
+    }
+
+    .names-count {
+        font-size: 12px !important;
+        margin: 25px 16px 0 !important;
+    }
+
+    .title-activity-block {
+        font-size: 23px !important;
+    }
+
+    .stand-banner-title {
+        font-size: 28px !important;
+        font-weight: 800;
+        line-height: 1.23;
+    }
+
+    .stand-banner-explanation {
+        font-weight: 500 !important;
+    }
+
+    .padding-stand-top,
+    .padding-cases-top,
+    .padding-gift-top,
+    .padding-test-top,
+    .padding-olimpiad-top,
+    .padding-minitest-top {
+        padding: 45px 15px !important;
+        height: auto !important;
+        border-radius: 0 !important;
+        background-position: 7% !important;
+        margin-top: 3.6em !important;
+    }
+
+    .virtual-stand-button {
+        margin-top: 40px;
+    }
+
+    .margin-top-button-mobile {
+        margin-top: 20px;
+    }
+
+    .padding-bottom-mobile-adv {
+        margin-bottom: 40px !important;
+    }
+
+    .padding-top-bottom-mobile {
+        margin-top: 20px !important;
+        margin-bottom: 20px !important;
+    }
+
+    #company-wrapper-popup {
+        height: 302px !important;
+    }
+
+    .margin-top-company-mobile {
+        margin-top: 30px;
+    }
+
+    .no-gutters-mobile {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+
+    .popup-content {
+        width: 100% !important;
+        border-radius: unset !important;
+        border: 1px solid #ebebec !important;
+        padding: 20px 20px 50px 20px !important;
+        background: white;
+        top: 0 !important;
+        /*margin-bottom: 0 !important;*/
+    }
+
+    .row-desktop {
+        display: none;
+    }
+
+    /*.navbar {*/
+    /*    padding: .5rem 1rem !important;*/
+    /*}*/
+
+    .text-column {
+        max-width: 100% !important;
+    }
+
+    .main-title {
+        font-size: 32px;
+    }
+
+    .title-small {
+        font-size: 16px;
+    }
+
+    .think-image {
+        width: 100% !important;
+        height: 100% !important;
+        /*transform: scale(1.0) !important;*/
+    }
+
+    .button-more-title {
+        margin-top: 10px;
+    }
+
+    .title-block {
+        font-size: 28px;
+        /*text-align: left;*/
+    }
+
+    .padding-landing-top {
+        height: unset;
+        margin-bottom: 100px;
+    }
+
+    .title-block-expl {
+        font-size: 18px;
+        /*text-align: left;*/
+    }
+
+    .form-email {
+        margin-bottom: 10px;
+    }
+
+    .background-gray {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    /*.padding-top-organizators{*/
+    /*    margin-bottom: 70px !important;*/
+    /*}*/
+    .background-white {
+        background-color: #FFFFFF;
+    }
+
+    .feather-chevron-left-slider {
+        width: 40px;
+        height: 40px;
+    }
+
+    .slider-button-next {
+        right: -25px;
+    }
+
+    .slider-button-prev {
+        left: -25px;
+    }
+
+    .navbar-toggler {
+        /* padding: .25rem .75rem; */
+        font-size: 1.25rem;
+        line-height: 1.2;
+        background-color: transparent;
+        border: 1px solid transparent;
+        border-radius: .25rem;
+    }
+
+    /*.navbar-toggler-icon {*/
+    /*    padding-left: 21px;*/
+    /*}*/
+
+    .nav-link, .nav-item-text {
+        padding: .7rem 0 !important;
+    }
+
+    .button-naukma, .button-highers, .button-registrate {
+        width: 100%;
+        padding: 15px 60px;
+    }
+
+    #width-button, .know-more-button {
+        width: 100%;
+    }
+
+    .line-activity {
+        margin: 50px -20px 20px !important;
+    }
+
+    /*.title-small-block{*/
+    /*    text-align: left;*/
+    /*}*/
+    /*.title-small-block-text{*/
+    /*    text-align: left;*/
+    /*}*/
+}

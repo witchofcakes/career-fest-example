@@ -1,0 +1,54 @@
+.background-gains{
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #0d192a, #0c0c0c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding-top: 30px;
+    margin-top: 60px;
+    padding-bottom: 70px;
+}
+
+@media (min-width: 800px) {
+    .title-block-text-gains {
+        padding-top: 30px;
+        font-size: 37px;
+        font-weight: 700;
+        margin-bottom: 80px;
+        text-align: center;
+        color: #f6f6f6;
+    }
+
+    .title-gains-text{
+        color: #f6f6f6;
+        font-weight: 600;
+        font-size: 18px;
+        margin-left: 5px;
+    }
+
+    .mobile-display{
+        display: none !important;
+    }
+
+    .desktop-display{
+        display: block;
+    }
+}
+
+.box-circle-gains{
+    height: 17px;
+    width: 17px;
+    background: #FF5757;
+    border-radius: 100%;
+    display: inline-block;
+    background: linear-gradient(to bottom, #ff3a3a, #ff6f1a);
+    box-shadow: 0 3px 12px rgba(255, 92, 17, 0.62);
+    margin-top: 5px;
+}
+
+.width-fixed{
+    max-width: 17px !important;
+}
+
+.display-flex-gains{
+    display: flex;
+    margin-bottom: 30px;
+}
